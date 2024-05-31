@@ -1,0 +1,6 @@
+Order Timestamp: 20240531-062007
+Sandwich (4" white toasted): $5.5 with chicken, bacon, swiss, lettuce, onions, mayo: $5.5
+Drink: Size=Large, Flavor=Orange, Price=3.0: $3.0
+Chip(type='Large'): $1.5
+Total Price: $10.0
+------------------------------------------------

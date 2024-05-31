@@ -1,0 +1,6 @@
+Order Timestamp: 20240531-073103
+Sandwich (4" white toasted): $5.5 with chicken, bacon, swiss, lettuce, onions, mayo: $5.5
+Drink: Size=Small, Flavor=Cola, Price=2.0: $2.0
+Chip(type='Small'): $1.5
+Total Price: $9.0
+------------------------------------------------
