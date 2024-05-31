@@ -1,8 +1,7 @@
 # The Deli 
 
 ## Description
-The Deli Ordering System is a Java application designed to streamline the ordering process at a deli. 
-It allows customers to create new orders, customize sandwiches with various toppings, add drinks, chips, and proceed to checkout.
+The Deli is a Java application designed to streamline the ordering process at a deli. It allows customers to create new orders, customize sandwiches with various toppings, add drinks, chips, and proceed to checkout.
 
 ## Usage
 1. Run the mainApp.java file to start the application.
