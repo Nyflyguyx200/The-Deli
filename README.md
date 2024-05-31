@@ -28,7 +28,7 @@ It allows customers to create new orders, customize sandwiches with various topp
 <img width="893" alt="Capstone2(1)" src="https://github.com/Nyflyguyx200/The-Deli/assets/114933451/9bd1b894-6983-4900-9381-50751ed05a9e">
 
 
-  
+## One Piece of Interesting Code
 @Override
     public String toString() {
         StringBuilder sandwichDetails = new StringBuilder(super.toString());
